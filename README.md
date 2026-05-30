@@ -18,3 +18,5 @@ Desarrollada como proyecto integrador en UTNG — 9° Cuatrimestre 2025.
  
 ## Autor
 Camarillo Olaez Juana Jaqueline — UTNG — juanaolaez95@gmail.com
+
+## Capturas de pantalla con las imágenes del Login y Dashboard funcionando
